@@ -1,0 +1,12 @@
+#############
+# Aliases
+#############
+
+# Dir
+alias home='cd /home/pma/AI'
+alias prj='cd /home/pma/AI/projects'
+
+# Command
+alias v='nvim'
+alias env='source .venv/bin/activate'
+alias t='tmux -f /home/pma/.config/tmux/tmux.conf'
